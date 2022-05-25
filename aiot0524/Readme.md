@@ -32,8 +32,13 @@
 7. Remeber to turn on xampp/MySQL (Apache is not necessary)
 
 8.Final Result
+
 <img src="./app.jpg" height=500/>
+
+SetRandom
 <img src="./setrandom.jpg" height=500/>
+
+Call_ai
 <img src="./call_ai.jpg" height=500/>
 
 
