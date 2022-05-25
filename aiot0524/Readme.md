@@ -1,4 +1,4 @@
-# Huan Chen's Homework #5 (complete)
+# CHUN HSIUNG Homework #5
 
 ## Lecture 14: IoT Flask Web (github, vs code)
 
@@ -11,8 +11,8 @@
   * 快捷鍵 ctrl+shift+p ===> package manager 叫出 (git clone....)
   * 快捷鍵 ctrl+' ==> 叫出終端機 
 6. (check-point 2) 為了要upload local file to github from local要終端機 C:> 設定下面 (不設定 branch default ='main')
-   * C:> git config --global user.name "Huan Chen"
-   * C:> git config --global user.email huanchen1107@gmail.com
+   * C:> git config --global user.name "lchhs"
+   * C:> git config --global user.email lchhslcjh@gmail.com
    * C:> git commit -m "first commit"
    * C:> git remote add origin git@github.com:huanchen1107/aiot0524.git
 
@@ -30,6 +30,11 @@
   git push -u origin master
 '''
 7. Remeber to turn on xampp/MySQL (Apache is not necessary)
+
+8.Final Result
+<img src="./app.jpg" height=500/>
+<img src="./setrandom.jpg" height=500/>
+<img src="./call_ai.jpg" height=500/>
 
 
 

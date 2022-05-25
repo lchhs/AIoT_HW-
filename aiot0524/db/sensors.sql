@@ -39,7 +39,8 @@ CREATE TABLE `sensors` (
 -- Dumping data for table `sensors`
 --
 
-INSERT INTO `sensors` (`id`, `time`, `value`, `temp`, `humi`, `status`) VALUES
+INSERT INTO `sensors` (`id`, `time`, `
+`, `temp`, `humi`, `status`) VALUES
 (1, '2019-10-18 01:08:27', 1000, 26, 99, 1),
 (2, '2019-10-18 01:08:27', 979, 70, 58, 1),
 (3, '2019-10-18 01:08:27', 859, 12, 89, 0),
